@@ -6,4 +6,3 @@ def thingy
   ary = []
   return ary.push(rand(1..6))
 end
-
